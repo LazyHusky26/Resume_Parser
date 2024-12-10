@@ -3,12 +3,6 @@
 
 #### (NLP PROJECT)
 
-This project is different from a tradtional Resume Parser. 
-
-You give it the your resume and the job you're looking for, and it returns all the other skills you'd need to learn to increase the chances of getting your dream job.
-
-#### (We've used the help of AI to make this project)
-
 ## Table of Contents
 
 1. [Note](#note)
@@ -19,6 +13,11 @@ You give it the your resume and the job you're looking for, and it returns all t
    - [Input Additional Skills](#input-additional-skills)
 4. [Acknowledgements](#acknowledgements)
 
+This project is different from a tradtional Resume Parser. 
+
+You give it the your resume and the job you're looking for, and it returns all the other skills you'd need to learn to increase the chances of getting your dream job.
+
+#### (We've used the help of AI to make this project)
 
 ## Note
 
