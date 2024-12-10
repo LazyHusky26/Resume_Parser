@@ -52,11 +52,12 @@ You give it the your resume and the job you're looking for, and it returns all t
 ```
 
 ## Video Tutorial
-![2024-12-10 17-46-59](https://github.com/user-attachments/assets/058ae732-fa07-42df-a7c3-45f9ecc4cf84)
-![2024-12-10 17-50-12](https://github.com/user-attachments/assets/b1db8d28-74de-4af9-be3a-ac111b00db3c)
-![2024-12-10 17-51-43](https://github.com/user-attachments/assets/dfee0e7c-9b43-4343-83ef-e91343786fae)
-![2024-12-10 17-52-47](https://github.com/user-attachments/assets/0541e41e-bcf2-44b9-b595-8b7d2d4d3b00)
-![2024-12-10 17-53-32](https://github.com/user-attachments/assets/e943d8ec-1fda-4fae-ab53-1671ab8804ed)
+![2024-12-10 17-46-59](https://github.com/user-attachments/assets/aeae2dc2-7fa3-4860-8fe9-e9f9680d9ebe)
+![2024-12-10 17-50-12](https://github.com/user-attachments/assets/94fd3d9f-5de7-4f3a-b4d0-53191fe48ed5)
+![2024-12-10 17-51-43](https://github.com/user-attachments/assets/dcdc4b55-606c-490a-bb59-4a0a40fb6460)
+![2024-12-10 17-52-47](https://github.com/user-attachments/assets/6eb763ec-ae5b-4604-aa8f-62e004b76832)
+![2024-12-10 17-53-32](https://github.com/user-attachments/assets/70f29955-6ffe-4b3e-b437-d7ad228fdb98)
+
 
 
 
