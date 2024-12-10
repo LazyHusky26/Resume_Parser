@@ -5,14 +5,16 @@
 
 ## Table of Contents
 
-1. [Note](#note)
-2. [Installation Guide](#installation-guide)
-3. [Video Tutorial](#video-tutorial)
+1. [Introduction](#introduction)
+2. [Note](#note)
+3. [Installation Guide](#installation-guide)
+4. [Video Tutorial](#video-tutorial)
    - [Manually Input Your Skills](#manually-input-your-skills)
    - [Upload Resume (PDF Format)](#upload-resume-pdf-format)
    - [Input Additional Skills](#input-additional-skills)
-4. [Acknowledgements](#acknowledgements)
+5. [Acknowledgements](#acknowledgements)
 
+## Introduction
 This project is different from a tradtional Resume Parser. 
 
 You give it the your resume and the job you're looking for, and it returns all the other skills you'd need to learn to increase the chances of getting your dream job.
