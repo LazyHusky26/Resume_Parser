@@ -9,6 +9,22 @@ You give it the your resume and the job you're looking for, and it returns all t
 
 #### (We've used the help of AI to make this project)
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Project Overview](#project-overview)
+3. [Installation Guide](#installation-guide)
+   - [Clone the Repository](#clone-the-repository)
+   - [Install Required Libraries](#install-required-libraries)
+   - [Run the Project](#run-the-project)
+4. [Usage](#usage)
+   - [Manually Input Your Skills](#manually-input-your-skills)
+   - [Upload Resume (PDF Format)](#upload-resume-pdf-format)
+   - [Input Additional Skills](#input-additional-skills)
+5. [Video Tutorial](#video-tutorial)
+6. [Acknowledgements](#acknowledgements)
+   - [Dataset Used](#dataset-used)
+   - [Libraries Used](#libraries-used)
 
 
 ## Note
