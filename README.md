@@ -54,11 +54,11 @@ You give it the your resume and the job you're looking for, and it returns all t
 ## Video Tutorial
 ![2024-12-10 17-46-59](https://github.com/user-attachments/assets/aeae2dc2-7fa3-4860-8fe9-e9f9680d9ebe)
 ![2024-12-10 17-50-12](https://github.com/user-attachments/assets/94fd3d9f-5de7-4f3a-b4d0-53191fe48ed5)
-- Manually input your skills
+### Manually input your skills
 ![2024-12-10 17-51-43](https://github.com/user-attachments/assets/dcdc4b55-606c-490a-bb59-4a0a40fb6460)
-- Upload your resume/csv (**IN PDF FORM**)
+### Upload your resume/csv (**IN PDF FORM**)
 ![2024-12-10 17-52-47](https://github.com/user-attachments/assets/6eb763ec-ae5b-4604-aa8f-62e004b76832)
-- Input additional skills (just incase) 
+### Input additional skills (just incase) 
 ![2024-12-10 17-53-32](https://github.com/user-attachments/assets/70f29955-6ffe-4b3e-b437-d7ad228fdb98)
 
 
